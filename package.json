@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "google-auth-library": "^8.7.0",
+    "open": "^8.4.2",
+    "server-destroy": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node appOauth2.js"
+  }
+}
